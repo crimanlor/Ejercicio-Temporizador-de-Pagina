@@ -1,4 +1,4 @@
-# Ejercicio de Temporizador de Página - Curso Desarrollo Applicaciones con Tecnologías Web
+# Ejercicio Temporizador de Página - Curso Desarrollo Aplicaciones con Tecnologías Web
 
 Este ejercicio se basa en el uso del evento "onload" para implementar un temporizador en una página web. La meta es mostrar una alerta si la página ha estado cargando durante más de 20 segundos.
 
