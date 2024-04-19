@@ -10,6 +10,7 @@ Este ejercicio se basa en el uso del evento "onload" para implementar un tempori
 Dividida en dos carpetas con dos posibles soluciones. Cada carpeta contiene los siguientes archivos:
    - `index.html`: Archivo principal HTML donde se implementará el temporizador.
    - `app.js`: Archivo JavaScript que contendrá la lógica del temporizador.
+   * `referencia.html`: Archivo HTML con solución en JS facilitada por nuestro profesor.
 
 3. **Prueba del Temporizador:**
    
