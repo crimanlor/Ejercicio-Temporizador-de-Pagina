@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <script type="text/javascript">
+        var seconds = 0;
+
+        function iniciotiempo(){
+            window.setInterval("actualizarTime()", 1000);
+        }
+
+        function actualizarTime (){
+            ++seconds;
+            document.getElementById ("tiempo").innerHTML = seconds;
+        }
+
+    </script>
+</head>
+<body onload ="iniciotiempo()">
+    <p>Segundos desde que se ha cargado la página: <strong id="tiempo">0</strong></p>
+</body>
+</html>
